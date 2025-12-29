@@ -1,4 +1,4 @@
-# Terraform AWS Web Architecture
+# Terraform AWS Web Architecture : this Project is simple with no modules, loops..To understand basic.
 
 This project creates a highly available web application using:
 - VPC with multi-AZ public subnets
@@ -69,4 +69,5 @@ Internet
 [ EC2 Web1 ]   [ EC2 Web2 ]
   Subnet-1        Subnet-2
   AZ-1a           AZ-1b
+
 
