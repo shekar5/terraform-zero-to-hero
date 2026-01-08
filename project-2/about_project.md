@@ -1,3 +1,4 @@
+
 Create a Highly Available Web Setup with:
 VPC
 Multi-AZ public subnets
@@ -75,5 +76,3 @@ ALB :
 6. aws_lb_listner resource --> load balancer arn , port, protocol, default action --> type ->forward --> target group arn --> 
 
 
-
-=============
